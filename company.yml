@@ -4,6 +4,7 @@ spring:
 
 message: That's the company specific configuration for the cloud
 
+---
 spring:
   profiles: dev
 
