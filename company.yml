@@ -2,10 +2,10 @@
 spring:
   profiles: cloud
 
-message: That's the company specific configuration for the cloud
+message: That's the updated company specific configuration for the cloud
 
 ---
 spring:
   profiles: dev
 
-message: That's the company specific configuration for development
+message: That's the updated company specific configuration for development
