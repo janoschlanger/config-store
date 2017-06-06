@@ -1,3 +1,10 @@
 ---
-info:
-  message: That's the company specific configuration
+spring:
+  profiles: cloud
+
+message: That's the company specific configuration for the cloud
+
+spring:
+  profiles: dev
+
+message: That's the company specific configuration for development
