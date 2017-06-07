@@ -5,4 +5,4 @@ info:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://user:password@{your-eureka-url}/eureka
+      defaultZone: http://user:password@service-registry-jlanger.cfapps.io/eureka
